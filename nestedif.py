@@ -1,4 +1,4 @@
-per=85
+per=65
 if per>=60:
     if per>=80:
         print("Distinction")
