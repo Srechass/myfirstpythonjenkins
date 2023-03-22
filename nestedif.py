@@ -1,4 +1,4 @@
-per=eval(input("enter the percentage:")
+per=eval(input("enter the percentage:"))
 if per>=60:
     if per>=80:
         print("Distinction")
